@@ -1,33 +1,13 @@
 # Jogo da velha Angular
 
-<b> Este projeto foi criado com Angular CLI 13.2.3 para colocar em prática o aprendizado sobre serviços, componentes, módulos e injeção de dependência do Angular </b>
-
-# Sobre o projeto
-
-Este projeto consiste em uma aplicação frontend, onde foi criado uma lógica de um jogo da velha aplicando os conceitos de javascript, typescript e Angular 13.
-
-# Layout do projeto
-
-![Jogo da Velha](jogo-da-velha.png)
+<b> Este projeto foi criado em Angular para colocar em prática o aprendizado sobre framework.</b>
 
 # Tecnologias utilizadas
 
-- HTML
-- SASS
-- Javascript
 - Typescript 4.5.2
 - Angular CLI 13.2.6
-- Node
-- NPM
 
 # Iniciando o projeto
 
-Para iniciar a aplicação execute o seguinte comando no terminal dentro da pasta jogo da velha
+Para iniciar a aplicação execute o seguinte comando no terminal (npm run start) dentro da pasta jogo da velha
 
-```shell script
-ng serve
-```
-
-# Autor
-
-<b>Monica Marcela de Carvalho</b>
